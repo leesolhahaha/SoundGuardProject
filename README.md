@@ -56,7 +56,7 @@
 #### 1) 시스템 구성도
 - **설명**: 라즈베리파이와 AI모뗼과의 시스템 구성도.
 - **이미지**:
-  ![유스케이스 다이어그램](images/safety_system_architecture.png)
+  ![시스템구성도](images/safety_system_architecture.png)
 
 ---
 
