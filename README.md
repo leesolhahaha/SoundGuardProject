@@ -221,7 +221,7 @@
 
 ## 5. 프로젝트 작동 동영상
 
-[프로젝트 작동 동영상 보기](https://www.youtube.com/watch?v=LN-tpjpIyoQ&t=1s)
+[프로젝트 작동 동영상 보기](https://youtu.be/DHv9khxd8rw)
 
 
 ---
